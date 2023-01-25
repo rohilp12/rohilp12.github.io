@@ -43,7 +43,7 @@ black-favicon: "/img/black-lab-glass.ico"
 # logo: "/img/author.png" # leave blank if you don't want a logo
 
 # background-img: "../img/intro-bg.jpg"
-background-img: "mountains-862870_1920.jpg"
+background-img: "/img/mountains-862870_1920.jpg"
 
 ##############################
 # Dynamic Text on the Header #
@@ -57,9 +57,9 @@ type-speed: 10
 start-delay: 200
 delete-delay: 5000
 lines: # You can add HTML Tags in the Text
+  - text: "Hi there, Welcome to my site!
 #  - text: "The lower you fall, the higher you'll fly."
 #  - text: "Where’s your will to be weird?"
-  - text: "Hi there, Welcome to my site!
 
 me-img: "/img/jetpacktocat.png"
 
