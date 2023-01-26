@@ -39,7 +39,7 @@ favicon: "/img/Asset 1favicon1.png"
 # Header layout #
 ################
 
-black-favicon: "/img/Asset 1favicon1.png"
+# black-favicon: "/img/Asset 1favicon1.png"
 # logo: "/img/author.png" # leave blank if you don't want a logo
 
 # background-img: "../img/intro-bg.jpg"
@@ -60,7 +60,7 @@ lines: # You can add HTML Tags in the Text
   - text: "Hi there, welcome to my personal site!"
 #  - text: "Or nahhhhhhhhh"
 
-me-img: "/img/jetpacktocat.png"
+me-img: "/img/Asset 1favicon1.png"
 
 # To use facebook profile pic comment the previous line and uncomment the following
 # line, and replace 'user_id' with your facebook user id.
