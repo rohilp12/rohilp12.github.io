@@ -43,7 +43,8 @@ favicon: "/img/Asset 1favicon1.png"
 # logo: "/img/author.png" # leave blank if you don't want a logo
 
 # background-img: "../img/intro-bg.jpg"
-background-img: "../img/mountains-862870_1920.jpg"
+background-img: "../img/pexels-billel-moula-540518.jpg"
+
 
 ##############################
 # Dynamic Text on the Header #
@@ -133,15 +134,15 @@ syntax-highlight: True
 ############
 
 events:
-  - image: "/img/timeline/spidertocat.png"
+  - image: "/img/timeline/1519932789776.jpg"
     date: "2022"
     description: "Catalent Pharma Solutions"
     description2: "Digital Marketing Intern"
-  - image: "/img/timeline/baracktocat.jpg"
+  - image: "/img/timeline/sprinjene.png"
     date: "2021"
     description: "SprinJene"
     description2: "Marketing Intern"
-  - image: "/img/timeline/baracktocat.jpg"
+  - image: "/img/timeline/riseagency.png"
     date: "2019"
     description: "The Rise Agency"  
     description2: "Marketing Intern"  
