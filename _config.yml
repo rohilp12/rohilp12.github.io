@@ -29,17 +29,17 @@ force-https: True
 #############
 
 lang: "en"
-author: "Edit"
+author: "Rohil Patel"
 title: "[ Rohil Patel ]"
 description: "Blog and website of John Smith, blogging mainly for tech. Opinions expressed are mine."
 keywords: "smith, jones, personal, jekyll, theme"
-favicon: "/img/favicon.ico"
+favicon: "/img/Asset 1favicon1.png"
 
 ################
 # Header layout #
 ################
 
-black-favicon: "/img/black-lab-glass.ico"
+black-favicon: "/img/Asset 1favicon1.png"
 # logo: "/img/author.png" # leave blank if you don't want a logo
 
 # background-img: "../img/intro-bg.jpg"
