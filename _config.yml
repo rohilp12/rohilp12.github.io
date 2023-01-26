@@ -130,26 +130,26 @@ disqus-shortname: "personal-jekyll-theme"
 syntax-highlight: True
 
 ############
-# Timeline #
+# Experience #
 ############
 
 events:
-  - image: "/img/timeline/1519932789776.jpg"
+  - image: "/img/experience/1519932789776.jpg"
     date: "2022"
     description: "Catalent Pharma Solutions"
     description2: "Digital Marketing Intern"
-  - image: "/img/timeline/sprinjene.png"
+  - image: "/img/experience/sprinjene.png"
     date: "2021"
     description: "SprinJene"
     description2: "Marketing Intern"
-  - image: "/img/timeline/riseagency.png"
+  - image: "/img/experience/riseagency.png"
     date: "2019"
     description: "The Rise Agency"  
     description2: "Marketing Intern"  
 
-# First image of the Timeline
+# First image of the Experience
 
-timeline-img: "/img/timeline/default.png"
+experience-img: "/img/experience/default.png"
 
 ###########
 # Contact #
@@ -211,7 +211,7 @@ keybase-in-footer: True
 pages_list:
   About: 'about'
   Blog: 'latest-post'
-  Timeline: 'timeline'
+  Experience: 'experience'
   Contact: 'contact'
 
 # Exclusion list from the generated _site

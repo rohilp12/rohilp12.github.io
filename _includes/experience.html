@@ -1,5 +1,5 @@
 
-<!-- Timeline Start -->
+<!-- Experience Start -->
 
 <section id="{{ page.section-type }}" class="container content-section text-center">
   <div class="row">
@@ -7,37 +7,37 @@
       
       {{ page.content | markdownify }}
 
-      <ul class="timeline">
+      <ul class="experience">
 
         {% for event in site.events %}
           {% assign loopindex = forloop.index | modulo: 2 %}
           {% capture class %}
           {% if loopindex == 0 %}
-            timeline-inverted
+            experience-inverted
           {% endif %}
           {% endcapture %}
 
           <li class="{{ class }}">
-            <div class="timeline-image">
+            <div class="experience-image">
               <img class="img-circle img-responsive" src="{{site.baseurl}}{{ event.image }}" alt="">
             </div>
-            <div class="timeline-panel">
-              <div class="timeline-heading">
+            <div class="experience-panel">
+              <div class="experience-heading">
                 <h3>{{ event.date }}</h3>
               </div>
-              <div class="timeline-body">
+              <div class="experience-body">
                 <h4>{{ event.description}}</h4>
               </div>
-              <div class="timeline-body">
+              <div class="experience-body">
                 <h5>{{ event.description2}}</h5>
               </div>
             </div>
           </li>
         {% endfor %}
 
-        <li class="timeline-inverted">
-          <div class="timeline-image">
-            <img class="img-circle img-responsive" src="{{site.baseurl}}{{ site.timeline-img }}" alt="">
+        <li class="experience-inverted">
+          <div class="experience-image">
+            <img class="img-circle img-responsive" src="{{site.baseurl}}{{ site.experience-img }}" alt="">
           </div>
         </li>
       </ul>
@@ -45,4 +45,4 @@
   </div>
 </section>
 
-<!-- Timeline End -->
+<!-- Experience End -->

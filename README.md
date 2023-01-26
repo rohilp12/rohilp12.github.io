@@ -13,13 +13,13 @@ You can watch it in action [here](https://le4ker.github.io/personal-jekyll-theme
 
 ## What value does { Personal } add
 
-* Fork of [Timeline](https://github.com/kirbyt/timeline-jekyll-theme) (mashup of [Grayscale by Start Bootstrap](https://github.com/IronSummitMedia/startbootstrap-grayscale) and [Agency Jekyll Theme](https://github.com/y7kim/agency-jekyll-theme))
+* Fork of [Experience](https://github.com/kirbyt/experience-jekyll-theme) (mashup of [Grayscale by Start Bootstrap](https://github.com/IronSummitMedia/startbootstrap-grayscale) and [Agency Jekyll Theme](https://github.com/y7kim/agency-jekyll-theme))
   * Modern and minimal design
     * Responsive templates for home page, blog archive and posts. Looks great on mobile, tablet, and desktop devices
     * Sweet animations
     * Gracefully degrades in older browsers. Compatible with Internet Explorer 8+ and all modern browsers
-  * Timeline
-    * Tell your story so far with a sleek timeline of dates, pictures and descriptions
+  * Experience
+    * Tell your story so far with a sleek experience of dates, pictures and descriptions
   * White on black text, making the reading experience tireless
   * Google analytics  
 * Customization and full control of your website and blog through the site config
@@ -88,7 +88,7 @@ One of the reasons { Personal } is real is the following OSS projects:
   2. [hammer.js](https://hammerjs.github.io/)
   3. [highlightjs](https://highlightjs.org/)
   4. [RRSSB](https://github.com/kni-labs/rrssb)
-  5. [Timeline](https://github.com/kirbyt/timeline-jekyll-theme)
+  5. [Experience](https://github.com/kirbyt/experience-jekyll-theme)
   6. [typed.js](https://github.com/mattboldt/typed.js/)
 
 <div style="font-size:16px;margin:0 auto;width:300px">
